@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Cehv10Shivi
-- 👀 I’m interested in hacking
+- 👋 Hi, I’m @Shivani
+- 👀 I’m interested in Programing
 - 🌱 I’m currently learning btech computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me s.s.sengarlic@gmail.com
